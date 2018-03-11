@@ -3,6 +3,11 @@
   "name": "Friendly Chat",
   "launch_path": "/index.html",
   "description": "Chat with friends using Firebase 2.0",
+  "short_name": "Friendly Chat",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "gcm_sender_id": "103953800507",
   "developer": {
     "name": "Google inc.",
     "url": "https://firebase.google.com"
